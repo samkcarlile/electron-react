@@ -1,0 +1,20 @@
+html {
+  height: 100vh;
+  min-height: 100vh;
+}
+
+body {
+  height: 100%;
+  user-select: none;
+}
+
+#app {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.selectable {
+  user-select: text !important;
+}

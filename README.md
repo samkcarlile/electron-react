@@ -1,4 +1,4 @@
-# Electron + React + Boostrap Starter Template
+# Electron + React + Bootstrap Starter Template
 
 ## Overview
 
